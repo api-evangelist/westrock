@@ -2,11 +2,10 @@
   "repo": "westrock",
   "feeds": [
     {
-      "source": "https://www.westrock.com/news",
-      "saved": 0,
-      "error": "HTTP 403 Forbidden"
+      "source": "https://www.westrock.com/company/supplier-resources/coupa-electronic-supplier-connectivity",
+      "error": "HTTPError"
     }
   ],
-  "fetched": "2026-06-27T13:22:18Z",
+  "fetched": "2026-07-11T11:50:51Z",
   "post_count": 5
 }
