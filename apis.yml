@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://www.westrock.com', status: 301, note: 'declared website redirects to https://www.smurfitwestrock.com/?redirect_source=westrock.com — a different registrable domain (westrock.com -> smurfitwestrock.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/westrock.png
 url: https://raw.githubusercontent.com/api-evangelist/westrock/refs/heads/main/apis.yml
 name: WestRock
