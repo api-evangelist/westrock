@@ -1,7 +1,9 @@
 ---
 title: 2023 Sustainability Report
 url: http://www.westrock.com/-/media/pdf/sustainability/westrock-sustainability-report-2023.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"WestRock" press release artificial intelligence'
 position: 5
 source: serpapi-google
