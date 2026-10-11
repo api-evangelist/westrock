@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "westrock",
+    "captured_at": "2026-10-11T194818",
+    "source_url": "https://www.westrock.com/company/supplier-resources",
+    "source_type": "Portal",
+    "file": "westrock-2026-10-11T194818.png",
+    "bytes": 413013,
+    "capture": "playwright-local"
+  }
+]
