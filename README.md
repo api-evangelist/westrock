@@ -1,4 +1,4 @@
-# WestRock (westrock)
+# WestRock
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,64 +66,81 @@
 
 WestRock (now Smurfit Westrock following its 2024 merger with Smurfit Kappa) is one of the world's largest paper and packaging companies. The company provides differentiated paper and packaging solutions including corrugated containers, consumer packaging, displays, and specialty packaging. WestRock serves consumer and industrial markets with an integrated supply chain connecting mills, converting operations, and customers globally.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/westrock/refs/heads/main/apis.yml)
+**Areas:** Packaging · Paper · Containers · Manufacturing · Supply Chain · Fortune 500
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## WestRock on APIs.io
 
-## Tags:
+Everything profiled for WestRock is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/westrock/](https://apis.io/providers/westrock/)** — or go straight to one of the APIs or properties below.
 
- - Packaging, Paper, Containers, Manufacturing, Supply Chain, Fortune 500
+### Published properties
 
-## Timestamps
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-05-03
+#### Security (1)
 
-## APIs
+Authentication, trust centre, and vulnerability disclosure.
 
-No public APIs have been documented yet. Contributions welcome.
+- [Westrock Domain Security](https://apis.io/security/westrock/westrock-domain-security/)
 
-## Common Properties
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.westrock.com)
-- [Portal](https://www.westrock.com/company/supplier-resources)
-- [GettingStarted](https://www.westrock.com/company/supplier-resources/coupa-electronic-supplier-connectivity)
+- [Getting started](https://www.westrock.com/company/supplier-resources/coupa-electronic-supplier-connectivity)
 - [Blog](https://www.westrock.com/news)
-- [TermsOfService](https://www.westrock.com/legal)
-- [PrivacyPolicy](https://www.westrock.com/privacy-policy)
+- [Terms of service](https://www.westrock.com/legal)
+- [Privacy policy](https://www.westrock.com/privacy-policy)
 
-## Features
+## API Evangelist rating
 
-| Name | Description |
-|------|-------------|
-| Corrugated Packaging | Full-service corrugated container design and manufacturing for e-commerce, retail, and industrial shipping applications. |
-| Consumer Packaging | Folding cartons, multi-pack carriers, and paperboard packaging for food and beverage, healthcare, and consumer goods brands. |
-| Connected Packaging | Digital packaging solutions with QR codes, NFC technology, and digital watermarking enabling product authentication and consumer engagement. |
-| Coupa Supplier Portal | Electronic supplier connectivity platform supporting purchase order processing, invoicing, and advance ship notifications via cXML. |
-| Sustainable Packaging | Renewable, recyclable, and compostable packaging materials with science-based sustainability targets and circular economy commitments. |
-| EDI Integration | Electronic Data Interchange connectivity for high-volume trading partners supporting order management, invoicing, and logistics transactions. |
+**Kin Score 5.3** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-## Use Cases
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 0.0 |
 
-| Name | Description |
-|------|-------------|
-| E-Commerce Fulfillment | Custom-designed corrugated packaging for e-commerce shipments optimized for dimensional weight pricing and damage prevention. |
-| Retail Shelf-Ready Packaging | Display-ready packaging solutions designed to transition from shipping container to retail shelf without repacking. |
-| Food Service Packaging | Paperboard and packaging solutions for quick-service restaurants, food delivery, and foodservice distribution. |
-| Supply Chain Integration | Digital supply chain connectivity for order-to-invoice automation with manufacturing customers and retail trading partners. |
-| Brand Protection | Connected packaging with digital watermarks and authentication features to combat counterfeiting and support product recalls. |
+**Agent readiness 0.0** — human-only
 
-## Integrations
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
 
-| Name | Description |
-|------|-------------|
-| Coupa | Coupa Supplier Portal (CSP) integration for electronic purchase orders, invoices, and advance ship notices via cXML data exchange. |
-| EDI Network | EDI compliance integration supporting ANSI X12 transaction sets for high-volume customer and supplier transactions. |
-| SAP ERP | Enterprise resource planning integration for mill operations, converting facilities, and financial management. |
-| o9 Solutions | Supply chain planning platform providing a digital twin of the network linking mills, converters, warehouses, and customers. |
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
-## Maintainers
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/westrock/](https://apis.io/providers/westrock/).
 
-**FN:** API Evangelist
+## How this profile is made
 
-**Email:** info@apievangelist.com
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for WestRock: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/westrock/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
